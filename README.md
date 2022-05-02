@@ -9,3 +9,7 @@ Here i have attached the output of the GUI program
 
 This is my second project , which is a contact book GUI without database integration, with many features.
 ![4528b628-b643-402b-b34c-31fba6287b5e](https://user-images.githubusercontent.com/74530081/166149667-598595ab-5f75-48f1-81e3-dbf4125e0cc6.jpg)
+
+
+this is another beginner project , which is a digital clock
+![c924e880-1d0e-4a0a-8d75-4de3bc6407cc](https://user-images.githubusercontent.com/74530081/166294677-88f5b100-7263-4243-882d-d77dba477836.jpg)
